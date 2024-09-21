@@ -33,7 +33,3 @@ Puedes modificar el mensaje, el contenido de las burbujas y la música de fondo 
 ## Contribuciones
 
 Este es un proyecto personal. Sin embargo, si deseas sugerir mejoras o hacer cambios, siéntete libre de hacerlo.
-
-## Licencia
-
-Este proyecto es de uso personal y no se distribuye comercialmente.
